@@ -48,7 +48,7 @@ MIT
 ---
 
 >
-> GitHub [@bdhamithkumara](https://github.com/bdhamithkumara) &nbsp;&middot;&nbsp;
-> Twitter [@bdhamithkumara](https://twitter.com/bdhamithkumara) &nbsp;&middot;&nbsp;
-> Linkedin [@bdhamithkumara](https://www.linkedin.com/in/bdhamithkumara) &nbsp;&middot;&nbsp;
+> GitHub [@bdhamithkumara](https://github.com/bdhamithkumara) </br>
+> Twitter [@bdhamithkumara](https://twitter.com/bdhamithkumara) </br>
+> Linkedin [@bdhamithkumara](https://www.linkedin.com/in/bdhamithkumara) </br>
 > Facebook [@bdhamithkumara](https://www.facebook.com/bdhamithkumara) 
