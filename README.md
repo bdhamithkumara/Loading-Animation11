@@ -35,7 +35,7 @@ $ cd 2023-Happy-New-Year---
 
 ## Download
 
-You can [download]() this code as ZIP file.
+You can [download](https://github.com/bdhamithkumara/Loading-Animation11/archive/refs/heads/master.zip) this code as ZIP file.
 
 ## Support
 
