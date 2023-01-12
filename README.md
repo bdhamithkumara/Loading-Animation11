@@ -26,10 +26,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) instal
 
 ```bash
 # Clone this repository
-$ gh repo clone bdhamithkumara/2023-Happy-New-Year---
+$ gh repo clone bdhamithkumara/Loading-Animation11
 
 # Go into the repository
-$ cd 2023-Happy-New-Year---
+$ cd Loading-Animation11
 
 ```
 
